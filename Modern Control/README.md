@@ -17,7 +17,7 @@
 12. Reference Tracking with Estimator
 13. Integral Control with State Estimation
 14. Introduction to Digital Control
-15. Introduction to Digital Control
+15. Introduction to Digital Control2
 16. ZOH-discretization 
 
 
