@@ -1,3 +1,4 @@
-# Model Predictive Control
+# Control repository for arranging my opinion and data
 
-Model predictive control(MPC)
+
+
