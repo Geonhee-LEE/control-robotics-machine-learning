@@ -4,9 +4,9 @@
 
 0. [Introduction](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Introduction.md)
 1. [Review of control system](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Review%20of%20control%20system.md)
-2. Review of control system2
-3. State space equation
-4. State Space Solution and Realization
+2. [Review of control system2](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Review%20of%20control%20system2.md)
+3. [State space equation](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/State%20space%20equation.md)
+4. [State Space Solution and Realization](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/State%20Space%20Solution%20and%20Realization.md)
 5. State Feedback Control Design
 6. Introduction to Matlab and Simulink
 7. Controllability & Observability 
