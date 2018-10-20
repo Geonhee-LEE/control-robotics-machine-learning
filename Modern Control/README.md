@@ -3,7 +3,7 @@
 ## Advanced Control Theory
 
 0. [Introduction](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Introduction.md)
-1. [Review of control system](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Review of control system.md)
+1. [Review of control system](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Review%20of%20control%20system.md)
 2. Review of control system2
 3. State space equation
 4. State Space Solution and Realization
