@@ -1,6 +1,6 @@
 # Control repository for arranging my opinion and data
 
--[]. Convex Optimization	 
+[ ]. Convex Optimization	 
 
 Digital Motion Control	Create folders	4 hours ago
 Model Predictive Control	Create folders	4 hours ago
