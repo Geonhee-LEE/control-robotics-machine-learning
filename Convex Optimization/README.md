@@ -26,3 +26,7 @@
 > [ModuLab, 모두를 위한 컨벡스 최적화 (Convex Optimization For All)](https://wikidocs.net/17052)
 
 > [Seoul National University, Convex Optimization](http://erc-aci.snu.ac.kr/ko/node/39)
+
+> [Convex Optimization by Stephen Boyd and Lieven Vandenberghe, Cambridge University Press](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+
+> [Stanford University, EE364a slides](https://web.stanford.edu/class/ee364a/lectures.html)
