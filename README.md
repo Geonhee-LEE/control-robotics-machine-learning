@@ -1,15 +1,19 @@
 # Control repository for arranging my opinion and data
 
-
-- [ ] Modern Control
+## Preparing
 - [ ] Robot & Control
-- [ ] Optimal Control
 - [ ] Underactuated Control
 - [ ] Nonlinear Control
 - [ ] Digital Motion Control
-- [ ] Convex Optimization	 
-- [ ] Model Predictive Control
+- [ ] Optimal Control
 
+## Ongoing
+- [x] Modern Control 
+- [x] Convex Optimization	 
+- [x] Model Predictive Control
+
+### Complete
+- [ ] 
 
 <h2>
 
