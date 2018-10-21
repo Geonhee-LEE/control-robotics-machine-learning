@@ -21,7 +21,8 @@
 ...
 
 
-Reference
+> Reference
+
 [1]. ModuLab, 모두를 위한 컨벡스 최적화 (Convex Optimization For All). https://wikidocs.net/17052
 
 [2]. Seoul Natinal University, Convex Optimization. http://erc-aci.snu.ac.kr/ko/node/39
