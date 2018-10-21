@@ -1,7 +1,7 @@
 # Control repository for arranging my opinion and data
 
 ## Preparing
-- [ ] Robot & Control
+- [ ] Robot dynamics & Control
 - [ ] Underactuated Control
 - [ ] Nonlinear Control
 - [ ] Digital Motion Control
