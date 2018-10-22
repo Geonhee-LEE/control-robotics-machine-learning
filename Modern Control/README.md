@@ -5,7 +5,7 @@
 0. [Introduction](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Introduction.md)
 1. [Review of control system](https://www.evernote.com/l/AqMmHnQaBqpMSqvNUuPjchDWs5GDDrzCIYA)
 2. [Review of control system2](https://www.evernote.com/l/AqOpaI7mKqxPZavQja7zQjBCimyg_p06N5Y)
-3. [State space equation](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/State%20space%20equation.md)
+3. [State space equation](https://www.evernote.com/l/AqOhoO0mXaRFUYEM0WKI1KJHc-IOHIOOOH8)
 4. [State Space Solution and Realization](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/State%20Space%20Solution%20and%20Realization.md)
 5. [State Feedback Control Design](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/State%20Feedback%20Control%20Design.md)
 6. [Introduction to Matlab and Simulink](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Introduction%20to%20Matlab%20and%20Simulink.md)
