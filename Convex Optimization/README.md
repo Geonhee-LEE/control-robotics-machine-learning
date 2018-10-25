@@ -17,6 +17,10 @@
 5. [02-01-04 Cone](https://www.evernote.com/l/AqMUCar2fOtDXI1WYadCbgcJgXm-NKbvsL8)
 6. [02-02 Some important examples](https://www.evernote.com/l/AqNkPPWsjoVO8J2_c0wQXgBbcMn3xHJANKU)
 7. [02-02-01 Convex set examples](https://www.evernote.com/l/AqPiDf_g9y1EloouhsD3TgDHnXljL6wxDUI)
+8. [02-02-02 Convex Cone examples](https://www.evernote.com/l/AqNfitIN3w5JF7_0H7-Wcrd81E4Jzlgj0rA)
+9. [02-03 Operations that preserve convexity](https://www.evernote.com/l/AqMrpGn3hO5Edae_levV8giLUF1tc8lR2xE)
+10. [02-04 Generalized inequalities](https://www.evernote.com/l/AqM8a5MN4zdCFa6XstR89gs0bLMnO26M2eg)
+11. [02-05 Separating and supporting hyperplanes](https://www.evernote.com/l/AqPP45xyqz9JoImH_68_gCQ3nwrVKQK-GKQ)
 
 ...
 
