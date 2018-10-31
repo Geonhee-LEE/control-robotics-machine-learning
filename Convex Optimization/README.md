@@ -21,6 +21,8 @@
 9. [02-03 Operations that preserve convexity](https://www.evernote.com/l/AqMrpGn3hO5Edae_levV8giLUF1tc8lR2xE)
 10. [02-04 Generalized inequalities](https://www.evernote.com/l/AqM8a5MN4zdCFa6XstR89gs0bLMnO26M2eg)
 11. [02-05 Separating and supporting hyperplanes](https://www.evernote.com/l/AqPP45xyqz9JoImH_68_gCQ3nwrVKQK-GKQ)
+12. [02-06 Dual cones and generalized inequalities](https://www.evernote.com/l/AqPcOFReqohH3rQi1x_qBaXiVcjtAm-FU4M)
+13. [02-06-01 Dual cones](https://www.evernote.com/l/AqN7bvHmlcFDB55ZRduuFZHQlqOGZSVkoE0)
 
 ...
 
