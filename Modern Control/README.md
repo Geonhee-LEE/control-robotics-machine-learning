@@ -11,7 +11,7 @@
 6. [Introduction to Matlab and Simulink](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Introduction%20to%20Matlab%20and%20Simulink.md)
 7. [Controllability & Observability](https://www.evernote.com/l/AqOe_BpFP7BMtbt3BrO0Wjbl5VdqM9uxsPc)
 8. [Reference Tracking with Full state feedback](https://www.evernote.com/l/AqP_Xv-eVsZKtJdWqzHHfxD8ykyswpoLk1I)
-9. [Design of State Feedback Control](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Design%20of%20State%20Feedback%20Control.md)
+9. [Design of State Feedback Control](https://www.evernote.com/l/AqN1mGCgQ_ZO5qZrhLvsYBQcLE-1Mj773NE)
 10. [State Estimation](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/State%20Estimation.md)
 11. [Compensator](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Compensator.md)
 12. [Reference Tracking with Estimator](https://github.com/Geonhee-LEE/control/blob/master/Modern%20Control/Reference%20Tracking%20with%20Estimator.md)
