@@ -1,5 +1,3 @@
-# Control repository for arranging my opinion and data
-
 ## Preparing
 - [ ] Robot dynamics & Control
 - [ ] Underactuated Control
