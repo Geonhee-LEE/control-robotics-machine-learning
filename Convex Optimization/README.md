@@ -59,6 +59,10 @@
 
 > [03-04 Quasiconvex functions](https://www.evernote.com/l/AqOkyIoYmjlEYpTZcXGyoZCgNOblBDyehsQk)
 
+> [03-05 Log-concave and log-convex functions](https://www.evernote.com/l/AqNRwpZ5BtRDx4l7ySffzvCqYGDbqqnME7k)
+
+> [03-06 Convexity with respect to generalized inequalities](https://www.evernote.com/l/AqN-mSFCg5VJpJYLvZc-cGWqkWpEKj4EHYw)
+
 ...
 
 
