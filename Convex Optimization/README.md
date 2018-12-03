@@ -63,6 +63,27 @@
 
 > [03-06 Convexity with respect to generalized inequalities](https://www.evernote.com/l/AqN-mSFCg5VJpJYLvZc-cGWqkWpEKj4EHYw)
 
+
+## [04 Convex optimization basics](https://www.evernote.com/l/AqOhey_P6HJIDqGuZbColrU1ewEoucGp-do)
+
+> [04-01 Basic terminology](https://www.evernote.com/l/AqNWe7Mce69JGIw8yTJ1_XRacRsW9XoqtPc)
+
+> [04-02 Convex solution sets](https://www.evernote.com/l/AqNxb4MoxINC05Rq73FJZE5fhwsCvnWuWv4)
+
+> [04-03 First order optimality condition](https://www.evernote.com/l/AqNxy7CQ-HBPMLJws3oL5FNUUpgI1RoN8XU)
+
+> [04-04 Partial optimization](https://www.evernote.com/l/AqPJAobL_5JDjYwonAGr6_bc-EzqePrwXLI)
+
+> [04-05 Transformations and change of variables](https://www.evernote.com/l/AqM122LimbpCAZh-TIJF7jtVdPM8HICXN4I)
+
+> [04-06 Eliminating equality constraints](https://www.evernote.com/l/AqNp4MRZaYZPjLeXQw_fF5loMq0McMSzXmE)
+
+> [04-07 Slack variables](https://www.evernote.com/l/AqNM4iD4wp9HZYqXUE0z1sulEAfmLAuKXXs)
+
+> [04-08 Relaxation](https://www.evernote.com/l/AqNIyy0w7DNG2riozOy5fl-9KYFANMaIAa0)
+
+
+
 ...
 
 
