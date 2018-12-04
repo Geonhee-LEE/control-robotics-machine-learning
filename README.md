@@ -4,6 +4,8 @@
 - [ ] Nonlinear Control
 - [ ] Digital Motion Control
 - [ ] Optimal Control
+- [ ] CS231N
+- [ ] Reinforcement learning
 
 ## Ongoing
 - [x] Modern Control 
