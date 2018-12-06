@@ -5,6 +5,7 @@
 - [ ] Digital Motion Control
 - [ ] Optimal Control
 - [ ] CS231N
+- [ ] ROS(Robot Operating System)
 - [ ] Reinforcement learning
 
 ## Ongoing
