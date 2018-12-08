@@ -6,12 +6,12 @@
 - [ ] Optimal Control
 - [ ] CS231N
 - [ ] ROS(Robot Operating System)
-- [ ] Reinforcement learning
 
 ## Ongoing
 - [x] Modern Control 
 - [x] Convex Optimization	 
 - [x] Model Predictive Control
+- [x] Reinforcement learning
 
 ### Complete
 - [ ] 
