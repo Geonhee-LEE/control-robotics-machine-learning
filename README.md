@@ -11,7 +11,7 @@
 
 ## Ongoing
 - [x] Modern Control 
-- [x] Convex Optimization	 
+- [x] [Convex Optimization](https://github.com/Geonhee-LEE/control-robotics-machine-learning/tree/master/Convex%20Optimization)	 
 - [x] Model Predictive Control
 
 ### Complete
