@@ -4,7 +4,7 @@
 - [ ] Underactuated Control
 - [ ] Nonlinear Control
 - [ ] Digital Motion Control
-- [ ] Optimal Control
+
 
 ## Ongoing
 - [x] [Modern Control](https://github.com/Geonhee-LEE/control-robotics-machine-learning/tree/master/Modern%20Control)
