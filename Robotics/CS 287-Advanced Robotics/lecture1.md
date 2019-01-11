@@ -108,18 +108,72 @@ Markov Decision Process (S, A, T, R, $\gamma$ , H)
 
 ### __Value Iteration__
 
+<p align="center"> 
+    <img src="./img/Val_iter.png" width="580" height="280">
+</p>
+
+
+### __Value Iteration Convergence__
+
+> Theorem.  Value iteration은 수렴. 
+> >  수렴지점에서, Bellman equation을 만족하는 discounted infinite horizon 문제에 대해서 optimal value function $V ^*$ 을 찾는다.
+
+<p align="center"> 
+    <img src="./img/Val_iter_conv.png" width="360" height="40">
+</p>
+
+-   Discounted reward를 가진 infinite horizon에 대해 어떻게 행동해야지 안다
+    -   수렴할때까지 value iteration을 실행.
+    -   $V ^*$ 를 생성하고, $V ^*$ 는 다음과 같이 행동하는 방법을 알려준다.
+
+<p align="center"> 
+    <img src="./img/Val_iter_conv2.png" width="360" height="40">
+</p>
+
+-   Note: infinite horizon optimal policy는 stationary, 즉, 각 state $s$에서 optimal action은 항상 같은 action. (저장하기 효율적)
+
+</br>
+</br>
+</br>
+
+
+### Convergence: Intuition
+
+-   $V ^* (s)$ = state s에서부터 $\infty$ step에서 optimally 행동하여 축적되는 보상의 expected 합.
+-   $V ^* _H (s)$ = state s에서부터 H step동안 축적되는 보상의 expected 합.
+
+ 추가적으로 다음 horizon에 걸쳐 수집되는 보상들이 있으며, H가 무한대로 가게되면, $V ^* _H (s)$ 는 $V ^* (s)$ 이 된다.
+
+### Convergence and Contractions
+
+- max-norm 정의: $\left \| U \right \|$ = max $_x |U(s)|$
+
+> Theorem: 두 개의 근사 U, V에 대하여,
+> > $\left \| U _{i+1} - V _i \right \|$ $\leq$ $\gamma \left \| U _i - V _i \right \|$
+> > 즉, 어떤 구별된 근사화는 더욱더 가까워져야하고, 특히, 
+
+
+### __Policy Evaluation__
+
+
+### __Policy Iteration__
 
 
 
+## Lecture3 (Discretization)
 
+Continious State Spaces
 
+-   S = continuous set
+-   Value iteration은 모든 state들에 대해서 계산하기에는 비현실적(불가능).
 
-
-
-
-
-
-
+  Markov chain approximation을 통해 continousous state space dynamics model로 변환("discretization)
+    -   Grid the state-space: vertice(꼭지점, 정점)가 discrete state.
+    -   action space를 finite set으로 축소
+        -   어떤 경우들에서는 필요가 없다
+            -   Bellman back-up이 continous action space에 걸쳐 정확히 계산될때.
+            -   optimal policy의 부분인 오직 하니의 특정 제어를 알때.
+    -   Transition function은 이후에 다룰것.
 
 
 
