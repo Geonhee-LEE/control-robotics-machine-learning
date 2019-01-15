@@ -1,6 +1,5 @@
 ## Preparing
 - [ ] Robot dynamics & Control
-- [ ] Probabilistics robotics
 - [ ] Underactuated Control
 - [ ] Nonlinear Control
 - [ ] Digital Motion Control
