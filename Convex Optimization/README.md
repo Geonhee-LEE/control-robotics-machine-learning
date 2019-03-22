@@ -83,6 +83,90 @@
 > [04-08 Relaxation](https://www.evernote.com/l/AqNIyy0w7DNG2riozOy5fl-9KYFANMaIAa0)
 
 
+## [05 Canonical Problems](https://www.evernote.com/l/AqPQjk5lVDZO1re3hxbpSxjqip0FLj_Fq-Y)
+
+> [05-01 Linear Programming (LP)](https://www.evernote.com/l/AqN4TxRWvtREJ5N4tMiMnVGgOivFBLRvjW8)
+
+> [05-02 Quadratic Programming (QP)](https://www.evernote.com/l/AqPi_KDEbtJPHafsHxs3MzGLmTlsI6ar5rE)
+
+> [05-03 Quadratically Constrained Quadratic Programming (QCQP)](https://www.evernote.com/l/AqORooEyDUVEpKfHlhYHYB4Ht-P4F08J1V8)
+
+> [05-04 Second-Order Cone Programming (SOCP)](https://www.evernote.com/l/AqMQYYUr1SFOBLOOsEQ0ycsSG1eZq12uHes)
+
+> [05-05 Semidefinite Programming (SDP)](https://www.evernote.com/l/AqMguzmSqDZFR5SGVPAdU8ptXZlNGqQ8u7U)
+
+> [05-06 Conic Programming (CP)](https://www.evernote.com/l/AqPi0-Rp6GVNFrHLz9W4WZFBlbMzmfFGAwE)
+
+
+## [06 Gradient Descent](https://www.evernote.com/l/AqORqZY_siZCIKP8-S8lCmFNkc2ZAM9Vk2o)
+
+> [06-01 Gradient Descent](https://www.evernote.com/l/AqN1T6j8CspJ5J6fw0BjphQGQXZaj4yeb9o)
+
+> [06-02 How to choose step sizes](https://www.evernote.com/l/AqMsECWYo0dB5Id44DJ2-R1k1EEUGOiffHU)
+
+>> [06-02-01 Fixed step size](https://www.evernote.com/l/AqMOI0kYYuRMW7ghqEta5oiy1g2qchUs60c)
+
+>> [06-02-02 Backtracking line search](https://www.evernote.com/l/AqNDfRDEoslOuqaezVkUoMa829qoWe0qOfE)
+
+>> [06-02-03 Exact line search](https://www.evernote.com/l/AqMEApZoP7pFcq7HcTLODWQLt8ac0zzg2xc)
+
+> [06-03 Convergence analysis](https://www.evernote.com/l/AqOkIERSBmtEyLWZpXL5W3vxC63iVY3lTi8)
+
+>> [06-03-01 Convergence analysis & Proof](https://www.evernote.com/l/AqNedbTtVbZEw7lXHoxHmWO-3CZ7aLB-mBI)
+
+> [06-04 Gradient boosting](https://www.evernote.com/l/AqO3qWgm9RZB-qYHJ5GJ9CYRM_4PhZFVYdU)
+
+> [06-05 Stochastic gradient descent](https://www.evernote.com/l/AqM_VjBYffJFyo9yxoS8CWFheSBdfiMlMf4)
+
+
+## [07 Subgradient](https://www.evernote.com/l/AqP_r70tn8JGSbH9JuAovYBLDP_CMHhSNHY)
+
+> [07-01 Subgradient](https://www.evernote.com/l/AqNYqTD7kBtJbrDJzzi2XdhrINampQ2-a04)
+
+> [07-02 Subdifferentials](https://www.evernote.com/l/AqMbESgZOr5MO61r6GgYSuaXpnf4isJsyYA)
+
+>> [07-02-01 Connection to a Convexity Geometry](https://www.evernote.com/l/AqOLUAlJtMtHbY2kNC7Ra3fhHbak4PXhV5Q)
+
+>> [07-02-02 Subgradient Calculus](https://www.evernote.com/l/AqNQtv8S-tBBVLe-9cbsGfduOuwc7UPo37Q)
+
+> [07-03 Subgradient Optimality Condition](https://www.evernote.com/l/AqOIf7V6jTFIVIF6mIHU3_ej1K16i8VOOt0)
+
+>> [07-03-01 Subgradient Optimality Condition](https://www.evernote.com/l/AqMaM2wqoAFKt6iNcOqCA2HqHTVDkvm6THw)
+
+>> [07-03-02 Derivation of First-Order Optimality Condition](https://www.evernote.com/l/AqNwV03oqtRPEL5dNShre2-axCM1GkouHNM)
+
+>> [07-03-03 Example: Lasso Optimality Condition](https://www.evernote.com/l/AqOZHxkYPd5FG7i2E4X-wYhkMI4odF-8NU0)
+
+>> [07-03-04 Example: Soft-Thresholding](https://www.evernote.com/l/AqNIx_q-EilEqbXIGJ6Nww3wIl89M92Knac)
+
+>> [07-03-05 Example: Distance to a Convex Set](https://www.evernote.com/l/AqNjlIY4uIxIb6DlbXZRzFdJoaR0KdqnXko)
+
+
+
+## [08 Subgradient Method](https://www.evernote.com/l/AqOjlBysd69OMbt84W4f-dTu4KLkDw16oyQ)
+
+> [08-01 Subgradient Method](https://www.evernote.com/l/AqMs61nXEzBNXZSueokyx3IeeH-BGRlfB3s)
+
+>> [08-01-01 Step size choices](https://www.evernote.com/l/AqNDM9jnOdREqL2iLI8MYbfEnittoo_YlRw)
+
+>> [08-01-02 Basic Inequality](https://www.evernote.com/l/AqOQkpI_2YlI5K8poR3NvzAzYQYqD_tE0JU)
+
+>> [08-01-03 Convergence analysis](https://www.evernote.com/l/AqPeBNkEwg1DxrvUwCe5m_d_p6bPWnDyxdk)
+
+>> [08-01-04 Convergence rate](https://www.evernote.com/l/AqO4kOBZmAJL4rl2nHYewHKz-044mbmTCY8)
+
+>> [08-01-05 Example: Regularized Logistic Regression](https://www.evernote.com/l/AqPPbnyowPxApqMnjHi1fqsJuaz_yG016ao)
+
+> [08-02 Stochastic Subgradient Method](https://www.evernote.com/l/AqOpJ1jnc_VO-ZK-RVHKZ1TGzCzXmEfJ2UA)
+
+>> [08-02-01 Stochastic Subgradient Method](https://www.evernote.com/l/AqOZHxkYPd5FG7i2E4X-wYhkMI4odF-8NU0)
+
+>> [08-02-02 Convergence of Stochastic Methods](https://www.evernote.com/l/AqMGtAf1UwNB_afnxzrW99iUChc3I407f54)
+
+>> [08-02-04 Batch vs Stochastic Methods](https://www.evernote.com/l/AqNAd6oyUwZCeo_Y1yt2k48Y8zw99WcOYyI)
+
+> [08-03 Improving on the Subgradient Method](https://www.evernote.com/l/AqNKP5HaeOJH76UKJC1V4fytuOF5Wg4HpyU)
+
 
 ...
 
