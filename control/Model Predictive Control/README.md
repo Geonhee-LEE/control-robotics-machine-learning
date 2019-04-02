@@ -1,8 +1,5 @@
 # Model Predictive Control
 
-## Paper review
-
-
 
 ## Mathworks
 
